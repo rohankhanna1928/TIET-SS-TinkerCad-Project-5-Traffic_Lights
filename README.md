@@ -1,1 +1,1 @@
-# TIET-SS-TinkerCad-Project-5-Traffic_Light_Cpntroller
+# TIET-SS-TinkerCad-Project-5-Traffic_Lights
